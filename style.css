@@ -301,5 +301,10 @@ p{
 	font-size: 9px;	
 }
 
-
+footer{
+	width:10px;
+	height: 11px;
+	display:flex;
+	padding-top: 13px;
+  }
 }
