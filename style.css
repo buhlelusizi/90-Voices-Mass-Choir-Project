@@ -300,11 +300,16 @@ div.content:hover {
 p{
 	font-size: 9px;	
 }
-
+h3{
+	padding-top: 170px;
+	color: white;
+	font-size: medium;	
+}
+	
 footer{
 	width:10px;
 	height: 11px;
 	display:flex;
-	padding-top: 13px;
+	padding-top: 18px;
   }
 }
